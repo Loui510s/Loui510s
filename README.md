@@ -1,6 +1,6 @@
 ## Hi there, I'm Louie👋
 
-🧠 I will be studying Computer Engineering at DTU this summer. <br/>
+🧠 I am studying Computer Engineering at DTU this summer. <br/>
 📖 I have been writing code for 10 years. <br/>
 🤖 I have written machine learning algorithms that can recognise handwriting. <br/>
 🖥️ I have made websites such as webshops. <br/>
