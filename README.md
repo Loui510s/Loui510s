@@ -1,6 +1,6 @@
 ## Hi there, I'm Louie👋
 
-🧠 I am studying Computer Engineering at DTU (Technical University of Denmark). <br/>
+🧠 I study Computer Engineering at DTU (Technical University of Denmark). <br/>
 📖 I have been writing code for over 10 years. <br/>
 🤖 I have written machine learning algorithms that can recognise handwriting. <br/>
 🖥️ I have made websites such as webshops. <br/>
